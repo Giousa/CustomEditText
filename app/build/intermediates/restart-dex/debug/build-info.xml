@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1730953738926"
+    token="4265259307504831793"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="499" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="97" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1730953738926"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

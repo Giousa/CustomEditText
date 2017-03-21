@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02d2d149fd6e9dae1ed527246db539d96c7f36fa">
+        <dex dex="/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_575d0e2876acd00146b9a27e6f6aec3738701e1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1331272d5361b4a559f5eb4c8a66231a6fb9b443">
+        <dex dex="/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_667792d77c6171d26fed7ce4ee9ee59c9fd9ab21/classes.dex" />
+    </item>
+
+</items>

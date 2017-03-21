@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Mar 21 09:29:16 CST 2017
+2.base=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/super_qq.png
+5.base=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/clear_normal_list.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/pay_widget_input.9.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.set=ANDROID_RESOURCE

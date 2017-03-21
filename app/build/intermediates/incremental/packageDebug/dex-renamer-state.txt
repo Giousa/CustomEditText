@@ -1,0 +1,7 @@
+#Tue Mar 21 09:29:19 CST 2017
+base.0=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_667792d77c6171d26fed7ce4ee9ee59c9fd9ab21
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_575d0e2876acd00146b9a27e6f6aec3738701e1c/classes.dex
+base.1=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_575d0e2876acd00146b9a27e6f6aec3738701e1c
+file.0=/Users/zhangmengmeng/Documents/CodeResource/Workspace/Android UI-EditText(jb51.net)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_667792d77c6171d26fed7ce4ee9ee59c9fd9ab21/classes.dex
